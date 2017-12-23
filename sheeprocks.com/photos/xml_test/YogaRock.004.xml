@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="itunes2html.xsl"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>7.0.2</string>
+	<key>Features</key><integer>1</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/LACIE/Music/</string>
+	<key>Library Persistent ID</key><string>5CAFD313C4665058</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2780</key>
+		<dict>
+			<key>Track ID</key><integer>2780</integer>
+			<key>Name</key><string>On Reflection</string>
+			<key>Artist</key><string>Appleseed Cast</string>
+			<key>Album</key><string>Low Level Owl: Volume I</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6192597</integer>
+			<key>Total Time</key><integer>386899</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2004-02-20T14:56:54Z</date>
+			<key>Date Added</key><date>2003-03-29T15:15:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 6</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3264873912</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:25:12Z</date>
+			<key>Normalization</key><integer>10872</integer>
+			<key>Persistent ID</key><string>6472833B56A52E6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Appleseed%20Cast/Low%20Level%20Owl_%20Volume%20I/02%20On%20Reflection%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3343</key>
+		<dict>
+			<key>Track ID</key><integer>3343</integer>
+			<key>Name</key><string>Wiser</string>
+			<key>Artist</key><string>Buffalo Tom</string>
+			<key>Album</key><string>1988-99-A-Sides</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3803932</integer>
+			<key>Total Time</key><integer>237609</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2004-05-16T23:28:50Z</date>
+			<key>Date Added</key><date>2003-03-29T15:15:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 9</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3264879124</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:52:04Z</date>
+			<key>Normalization</key><integer>6513</integer>
+			<key>Persistent ID</key><string>6472833B56A532F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Buffalo%20Tom/1988-99-A-Sides/18%20Wiser.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3529</key>
+		<dict>
+			<key>Track ID</key><integer>3529</integer>
+			<key>Name</key><string>How Is Your Memory?</string>
+			<key>Artist</key><string>Clairvoyants</string>
+			<key>Album</key><string>Your New Boundaries</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3624630</integer>
+			<key>Total Time</key><integer>226403</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2004-02-20T15:09:20Z</date>
+			<key>Date Added</key><date>2003-03-29T15:16:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 3</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3264871888</integer>
+			<key>Play Date UTC</key><date>2007-06-17T00:51:28Z</date>
+			<key>Normalization</key><integer>5780</integer>
+			<key>Persistent ID</key><string>6472833B56A5346C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Clairvoyants/Your%20New%20Boundaries/07%20How%20Is%20Your%20Memory%3F%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3941</key>
+		<dict>
+			<key>Track ID</key><integer>3941</integer>
+			<key>Name</key><string>The Way It Goes</string>
+			<key>Artist</key><string>Creeper Lagoon</string>
+			<key>Album</key><string>Remember The Future EP</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4581793</integer>
+			<key>Total Time</key><integer>286223</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2004-02-20T14:11:16Z</date>
+			<key>Date Added</key><date>2003-03-29T15:16:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 27</string>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3264878887</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:48:07Z</date>
+			<key>Normalization</key><integer>12055</integer>
+			<key>Persistent ID</key><string>6472833B56A537BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Creeper%20Lagoon/Remember%20The%20Future%20EP/02%20The%20Way%20It%20Goes%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5144</key>
+		<dict>
+			<key>Track ID</key><integer>5144</integer>
+			<key>Name</key><string>Fade</string>
+			<key>Artist</key><string>Madder Rose</string>
+			<key>Album</key><string>Hello June Fool</string>
+			<key>Grouping</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3610614</integer>
+			<key>Total Time</key><integer>225619</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2004-05-16T23:53:46Z</date>
+			<key>Date Added</key><date>2003-03-29T15:17:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 0</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3264874956</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:42:36Z</date>
+			<key>Normalization</key><integer>7074</integer>
+			<key>Persistent ID</key><string>6472833B56A541C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Madder%20Rose/Hello%20June%20Fool/04%20Fade%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5686</key>
+		<dict>
+			<key>Track ID</key><integer>5686</integer>
+			<key>Name</key><string>Flaming Wreck</string>
+			<key>Artist</key><string>Pernice Brothers</string>
+			<key>Album</key><string>The World Won't End</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5352494</integer>
+			<key>Total Time</key><integer>334393</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2004-02-20T14:36:06Z</date>
+			<key>Date Added</key><date>2003-03-29T15:17:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 30</string>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3223650378</integer>
+			<key>Play Date UTC</key><date>2006-02-24T22:26:18Z</date>
+			<key>Normalization</key><integer>31542</integer>
+			<key>Persistent ID</key><string>6472833B56A54624</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Pernice%20Brothers/The%20World%20Won't%20End/08%20Flaming%20Wreck.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6149</key>
+		<dict>
+			<key>Track ID</key><integer>6149</integer>
+			<key>Name</key><string>Ask Me How I Am</string>
+			<key>Artist</key><string>Snow Patrol</string>
+			<key>Album</key><string>When It's All Over We Still Have To Clear Up</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2476017</integer>
+			<key>Total Time</key><integer>154723</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2004-05-17T00:13:14Z</date>
+			<key>Date Added</key><date>2003-03-29T15:17:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 6</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3264874125</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:28:45Z</date>
+			<key>Normalization</key><integer>1753</integer>
+			<key>Persistent ID</key><string>6472833B56A549E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1347174745</integer>
+			<key>File Creator</key><integer>1296125012</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Snow%20Patrol/When%20It's%20All%20Over%20We%20Still%20Have%20To%20Clear%20Up/02%20Ask%20Me%20How%20I%20Am.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6216</key>
+		<dict>
+			<key>Track ID</key><integer>6216</integer>
+			<key>Name</key><string>Rain On Tin</string>
+			<key>Artist</key><string>Sonic Youth</string>
+			<key>Album</key><string>Murray Street</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7626601</integer>
+			<key>Total Time</key><integer>476525</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2004-05-17T00:15:08Z</date>
+			<key>Date Added</key><date>2003-03-29T15:17:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 6</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3264875880</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:58:00Z</date>
+			<key>Normalization</key><integer>2551</integer>
+			<key>Persistent ID</key><string>6472833B56A54A6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Sonic%20Youth/Murray%20Street/03%20Rain%20On%20Tin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6793</key>
+		<dict>
+			<key>Track ID</key><integer>6793</integer>
+			<key>Name</key><string>Race For The Prize</string>
+			<key>Artist</key><string>The Flaming Lips</string>
+			<key>Album</key><string>The Soft Bulletin</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3982836</integer>
+			<key>Total Time</key><integer>248790</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2004-05-17T00:29:10Z</date>
+			<key>Date Added</key><date>2003-03-29T15:18:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 9</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3264875942</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:59:02Z</date>
+			<key>Normalization</key><integer>9562</integer>
+			<key>Persistent ID</key><string>6472833B56A54F56</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/The%20Flaming%20Lips/The%20Soft%20Bulletin/01%20Race%20For%20The%20Prize.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7826</key>
+		<dict>
+			<key>Track ID</key><integer>7826</integer>
+			<key>Name</key><string>Black Path</string>
+			<key>Artist</key><string>Aerogramme</string>
+			<key>Album</key><string>Sleep And Release</string>
+			<key>Grouping</key><string>Alternative: Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3738531</integer>
+			<key>Total Time</key><integer>233613</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2004-05-17T00:49:20Z</date>
+			<key>Date Added</key><date>2003-04-05T20:49:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 16</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3264876380</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:06:20Z</date>
+			<key>Normalization</key><integer>6378</integer>
+			<key>Persistent ID</key><string>6472833B56A557C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Aerogramme/Sleep%20And%20Release/02%20Black%20Path.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8281</key>
+		<dict>
+			<key>Track ID</key><integer>8281</integer>
+			<key>Name</key><string>Come Down Slowly</string>
+			<key>Artist</key><string>James William Hindle</string>
+			<key>Album</key><string>Prospect Park</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4956031</integer>
+			<key>Total Time</key><integer>245201</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2004-02-20T13:40:14Z</date>
+			<key>Date Added</key><date>2003-05-08T02:57:13Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 10</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3264878798</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:46:38Z</date>
+			<key>Normalization</key><integer>6928</integer>
+			<key>Persistent ID</key><string>7AB2BDC62DFFDE2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/James%20William%20Hindle/Prospect%20Park/02%20Come%20Down%20Slowly.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10454</key>
+		<dict>
+			<key>Track ID</key><integer>10454</integer>
+			<key>Name</key><string>Shiver</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6050969</integer>
+			<key>Total Time</key><integer>299652</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2004-02-20T15:42:30Z</date>
+			<key>Date Added</key><date>2004-01-04T17:05:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 21</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3264877488</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:24:48Z</date>
+			<key>Normalization</key><integer>13646</integer>
+			<key>Persistent ID</key><string>79D75214CF5D7C2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Coldplay/Parachutes/02%20Shiver.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10508</key>
+		<dict>
+			<key>Track ID</key><integer>10508</integer>
+			<key>Name</key><string>Cry in the Wind</string>
+			<key>Artist</key><string>Clan of Xymox</string>
+			<key>Album</key><string>Clan of Xymox</string>
+			<key>Grouping</key><string>Alternative: Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8575284</integer>
+			<key>Total Time</key><integer>316786</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2004-05-17T01:11:12Z</date>
+			<key>Date Added</key><date>2004-01-04T17:39:32Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Rating: 21</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3261714693</integer>
+			<key>Play Date UTC</key><date>2007-05-11T11:51:33Z</date>
+			<key>Normalization</key><integer>1958</integer>
+			<key>Persistent ID</key><string>79D75214CF5D7C94</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Clan%20of%20Xymox/Clan%20of%20Xymox/04%20Cry%20in%20the%20Wind.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11709</key>
+		<dict>
+			<key>Track ID</key><integer>11709</integer>
+			<key>Name</key><string>Sinners and Their Repentances</string>
+			<key>Artist</key><string>Bob Mould</string>
+			<key>Composer</key><string>Bob Mould</string>
+			<key>Album</key><string>Workbook</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4936524</integer>
+			<key>Total Time</key><integer>245781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2004-08-26T13:19:20Z</date>
+			<key>Date Added</key><date>2004-08-26T13:18:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3264872058</integer>
+			<key>Play Date UTC</key><date>2007-06-17T00:54:18Z</date>
+			<key>Normalization</key><integer>1709</integer>
+			<key>Persistent ID</key><string>2381208E5F4BF015</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Bob%20Mould/Workbook/06%20Sinners%20and%20Their%20Repentances.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14603</key>
+		<dict>
+			<key>Track ID</key><integer>14603</integer>
+			<key>Name</key><string>Golden Ball</string>
+			<key>Artist</key><string>Stereolab</string>
+			<key>Album</key><string>Oscillions Fron The Anti Sun</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7805713</integer>
+			<key>Total Time</key><integer>386308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-04-26T13:27:10Z</date>
+			<key>Date Added</key><date>2005-04-26T13:26:14Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3264875042</integer>
+			<key>Play Date UTC</key><date>2007-06-17T01:44:02Z</date>
+			<key>Normalization</key><integer>16826</integer>
+			<key>Persistent ID</key><string>DF164F5B40C8D8F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Stereolab/Oscillions%20Fron%20The%20Anti%20Sun/1-09%20Golden%20Ball.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>20074</key>
+		<dict>
+			<key>Track ID</key><integer>20074</integer>
+			<key>Name</key><string>All The Walkers Home</string>
+			<key>Artist</key><string>Soccer Team</string>
+			<key>Album</key><string>"Volunteered" Civility &#38; Professionalism</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5268723</integer>
+			<key>Total Time</key><integer>266840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2006-09-04T18:52:52Z</date>
+			<key>Date Added</key><date>2006-09-04T19:51:01Z</date>
+			<key>Bit Rate</key><integer>157</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3264877013</integer>
+			<key>Play Date UTC</key><date>2007-06-17T02:16:53Z</date>
+			<key>Normalization</key><integer>886</integer>
+			<key>Persistent ID</key><string>94B979B01E252391</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Soccer%20Team/_Volunteered_%20Civility%20&#38;%20Professionalism/07%20All%20The%20Walkers%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21310</key>
+		<dict>
+			<key>Track ID</key><integer>21310</integer>
+			<key>Name</key><string>Difficult Situations</string>
+			<key>Artist</key><string>Mark Robinson (Olympic Death Squad)</string>
+			<key>Album</key><string>Tiger Banana</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4081310</integer>
+			<key>Total Time</key><integer>220421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-01-18T16:02:32Z</date>
+			<key>Date Added</key><date>2007-01-18T17:01:33Z</date>
+			<key>Bit Rate</key><integer>148</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3255202904</integer>
+			<key>Play Date UTC</key><date>2007-02-25T03:01:44Z</date>
+			<key>Normalization</key><integer>3747</integer>
+			<key>Persistent ID</key><string>411DB996594F3064</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Mark%20Robinson%20(Olympic%20Death%20Squad)/Tiger%20Banana/04%20Difficult%20Situations.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21919</key>
+		<dict>
+			<key>Track ID</key><integer>21919</integer>
+			<key>Name</key><string>No Cars Go</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8498819</integer>
+			<key>Total Time</key><integer>343666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-03-16T14:57:16Z</date>
+			<key>Date Added</key><date>2007-03-16T15:54:03Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3261155563</integer>
+			<key>Play Date UTC</key><date>2007-05-05T00:32:43Z</date>
+			<key>Normalization</key><integer>7192</integer>
+			<key>Persistent ID</key><string>F91301B44E71C83F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1299198752</integer>
+			<key>File Creator</key><integer>1414942532</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Arcade%20Fire/Neon%20Bible/10%20No%20Cars%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143586</key>
+		<dict>
+			<key>Track ID</key><integer>143586</integer>
+			<key>Name</key><string>Impossible Germany</string>
+			<key>Artist</key><string>Wilco</string>
+			<key>Composer</key><string>Jeff Tweedy</string>
+			<key>Album</key><string>Sky Blue Sky</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7241302</integer>
+			<key>Total Time</key><integer>358386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-03T01:12:26Z</date>
+			<key>Date Added</key><date>2007-06-03T01:09:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3264227540</integer>
+			<key>Play Date UTC</key><date>2007-06-09T13:52:20Z</date>
+			<key>Normalization</key><integer>26096</integer>
+			<key>Persistent ID</key><string>102EA432DD07EDD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/LACIE/Music/Wilco/Sky%20Blue%20Sky/03%20Impossible%20Germany.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>YogaRock.004</string>
+			<key>Playlist ID</key><integer>154357</integer>
+			<key>Playlist Persistent ID</key><string>102EA432DD07F43B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2780</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3343</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
